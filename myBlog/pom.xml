@@ -6,7 +6,6 @@
 
 	<groupId>myBlog</groupId>
 	<artifactId>myBlog</artifactId>
-	<version>myBlog</version>
 	<packaging>war</packaging>
 
 	<name></name>
@@ -39,4 +38,5 @@
 		</dependency>
 	</dependencies>
 
+	<version>1.0.0-SNAPSHOT</version>
 </project>

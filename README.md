@@ -1,7 +1,13 @@
 # MyBlog
 
-Maven 2.2.1 version
+Maven version 3.3.9
+Java + Spring3.0
+View : Velocity
 
-mvn install
-mvn package
-mvn clean
+Database : Oracle 12c
+
+Jquery JS & CSS
+Angular JS
+Node JS
+
+What I wnat to do?
